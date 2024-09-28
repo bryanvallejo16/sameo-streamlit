@@ -1,5 +1,5 @@
 import streamlit as st 
-import torch
+import samgeo
 
 
 st.write('Working')
